@@ -2,7 +2,7 @@
 
 Welcome to my personal Data Structures and Algorithms practice repository! This repo tracks my daily progress as I master DSA concepts following the **[ProPeers DSA Patterns Roadmap](https://www.propeers.in/roadmaps/69692150442404dc257236a1)**.
 
-![Language](https://img.shields.io/badge/Language-C++%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge&logo=codeforces)
+![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Consistency-green?style=for-the-badge)
 
