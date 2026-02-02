@@ -12,18 +12,18 @@ Welcome to my personal Data Structures and Algorithms practice repository! This 
 
 I am organizing my solutions by topic to keep things structured. Here is the breakdown:
 
-| 📂 Topic | 📝 Status | 🔗 Notes/Resources |
-| :--- | :---: | :--- |
-| **Arrays** | 🚧 | *[Coming Soon]* |
-| **Strings** | ⏳ | *[Coming Soon]* |
-| **Recursion** | ⏳ | *[Coming Soon]* |
-| **Linked List** | ⏳ | *[Coming Soon]* |
-| **Stacks & Queues** | ⏳ | *[Coming Soon]* |
-| **Binary Trees & BST** | ⏳ | *[Coming Soon]* |
-| **Priority Queues** | ⏳ | *[Coming Soon]* |
-| **Dynamic Programming** | ⏳ | *[Coming Soon]* |
-| **Graphs** | ⏳ | *[Coming Soon]* |
-| **Binary Search** | ⏳ | *[Coming Soon]* |
+| 📂 Topic | 📝 Status |
+| :--- | :---: |
+| **Arrays** | 🚧 |
+| **Strings** | ⏳ |
+| **Recursion** | ⏳ |
+| **Linked List** | ⏳ |
+| **Stacks & Queues** | ⏳ |
+| **Binary Trees & BST** | ⏳ |
+| **Priority Queues** | ⏳ |
+| **Dynamic Programming** | ⏳ |
+| **Graphs** | ⏳ |
+| **Binary Search** | ⏳ |
 
 ---
 
