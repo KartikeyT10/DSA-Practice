@@ -10,7 +10,7 @@ Welcome to my personal Data Structures and Algorithms practice repository! This 
 
 ## 🗺️ Roadmap & Structure
 
-I am organizing my solutions by topic to keep things structured. Here is the breakdown:
+Here is the current status of my progress across different topics:
 
 | 📂 Topic | 📝 Status |
 | :--- | :---: |
