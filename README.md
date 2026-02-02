@@ -1,21 +1,36 @@
-# DSA Practice
+# 🚀 Daily DSA Practice
 
-Daily practice and solutions for Data Structures and Algorithms problems.
+Welcome to my personal Data Structures and Algorithms practice repository! This repo tracks my daily progress as I master DSA concepts following the **[ProPeers DSA Patterns Roadmap](https://www.propeers.in/roadmaps/69692150442404dc257236a1)**.
 
-## Roadmap
-Following the roadmap: [ProPeers DSA Patterns](https://www.propeers.in/roadmaps/69692150442404dc257236a1)
+![Language](https://img.shields.io/badge/Language-C++%20%7C%20Java%20%7C%20Python-blue?style=for-the-badge&logo=codeforces)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Consistency-green?style=for-the-badge)
 
-## Structure
-- Arrays
-- Strings
-- Recursion
-- Linked List
-- Stacks & Queues
-- Binary Trees & BST
-- Priority Queues
-- Dynamic Programming
-- Graphs
+---
 
-## Progress
-- [ ] Created Repository
-- [ ] Started Practice
+## 🗺️ Roadmap & Structure
+
+I am organizing my solutions by topic to keep things structured. Here is the breakdown:
+
+| 📂 Topic | 📝 Status | 🔗 Notes/Resources |
+| :--- | :---: | :--- |
+| **Arrays** | 🚧 | *[Coming Soon]* |
+| **Strings** | ⏳ | *[Coming Soon]* |
+| **Recursion** | ⏳ | *[Coming Soon]* |
+| **Linked List** | ⏳ | *[Coming Soon]* |
+| **Stacks & Queues** | ⏳ | *[Coming Soon]* |
+| **Binary Trees & BST** | ⏳ | *[Coming Soon]* |
+| **Priority Queues** | ⏳ | *[Coming Soon]* |
+| **Dynamic Programming** | ⏳ | *[Coming Soon]* |
+| **Graphs** | ⏳ | *[Coming Soon]* |
+| **Binary Search** | ⏳ | *[Coming Soon]* |
+
+---
+
+## 📈 Goals
+- [ ] Solve at least **1 problem** daily.
+- [ ] Understand the core **patterns** behind questions.
+- [ ] Optimize for **Time & Space Complexity**.
+
+## 🤝 Connect
+Feel free to fork this repo or star ⭐ it if you are on a similar journey!
