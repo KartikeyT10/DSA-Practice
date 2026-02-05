@@ -32,5 +32,9 @@ Here is the current status of my progress across different topics:
 - [ ] Understand the core **patterns** behind questions.
 - [ ] Optimize for **Time & Space Complexity**.
 
+
+## 📊 GitHub Stats
+![KartikeyT10's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=radical)
+
 ## 🤝 Connect
 Feel free to fork this repo or star ⭐ it if you are on a similar journey!
