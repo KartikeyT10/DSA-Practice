@@ -34,7 +34,10 @@ Here is the current status of my progress across different topics:
 
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=radical" alt="KartikeyT10's GitHub stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=tokyonight" alt="KartikeyT10's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyT10&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+</div>
 
 ## 🤝 Connect
 Feel free to fork this repo or star ⭐ it if you are on a similar journey!
