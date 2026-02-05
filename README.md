@@ -34,7 +34,7 @@ Here is the current status of my progress across different topics:
 
 
 ## 📊 GitHub Stats
-![KartikeyT10's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=radical" alt="KartikeyT10's GitHub stats" />
 
 ## 🤝 Connect
 Feel free to fork this repo or star ⭐ it if you are on a similar journey!
