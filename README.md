@@ -33,10 +33,5 @@ Here is the current status of my progress across different topics:
 - [ ] Optimize for **Time & Space Complexity**.
 
 
-
-## 📊 GitHub Stats
-![KartikeyT10's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=radical&cache_seconds=1)
-
-
 ## 🤝 Connect
 Feel free to fork this repo or star ⭐ it if you are on a similar journey!
