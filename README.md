@@ -16,6 +16,7 @@ Here is the current status of my progress across different topics:
 | :--- | :---: |
 | **Arrays** | 🚧 |
 | [Merge Sorted Array](Arrays/Merge_Sorted_Array.cpp) | ✅ |
+| [Longest Mountain in Array](Arrays/Longest_Mountain_in_Array.cpp) | ✅ |
 | **Strings** | ⏳ |
 | **Recursion** | ⏳ |
 | **Linked List** | ⏳ |
