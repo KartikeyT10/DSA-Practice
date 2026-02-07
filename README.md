@@ -15,6 +15,7 @@ Here is the current status of my progress across different topics:
 | 📂 Topic | 📝 Status |
 | :--- | :---: |
 | **Arrays** | 🚧 |
+| [Merge Sorted Array](Arrays/Merge_Sorted_Array.cpp) | ✅ |
 | **Strings** | ⏳ |
 | **Recursion** | ⏳ |
 | **Linked List** | ⏳ |
@@ -35,7 +36,14 @@ Here is the current status of my progress across different topics:
 
 
 ## 📊 GitHub Stats
-![KartikeyT10's GitHub stats](https://github-readme-stats.vercel.app/api?username=KartikeyT10&show_icons=true&theme=radical&cache_seconds=1)
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/KartikeyT10?style=for-the-badge&color=2ea44f)
+![Stars](https://img.shields.io/github/stars/KartikeyT10/DSA-Practice?style=for-the-badge&color=yellow)
+![Forks](https://img.shields.io/github/forks/KartikeyT10/DSA-Practice?style=for-the-badge&color=blue)
+![Issues](https://img.shields.io/github/issues/KartikeyT10/DSA-Practice?style=for-the-badge&color=red)
+
+</div>
 
 
 ## 🤝 Connect
