@@ -18,6 +18,7 @@ Here is the current status of my progress across different topics:
 | [Merge Sorted Array](Arrays/Merge_Sorted_Array.cpp) | ✅ |
 | [Longest Mountain in Array](Arrays/Longest_Mountain_in_Array.cpp) | ✅ |
 | [Minimum Absolute Difference](Arrays/Minimum_Absolute_Difference.cpp) | ✅ |
+| [Maximum Product of Three Numbers](Arrays/Maximum_Product_of_Three_Numbers.cpp) | ✅ |
 | **Strings** | ⏳ |
 | **Recursion** | ⏳ |
 | **Linked List** | ⏳ |
