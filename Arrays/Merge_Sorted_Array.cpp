@@ -1,3 +1,4 @@
+// Solution for Merge Sorted Array
 #include <iostream>
 #include <vector>
 #include <algorithm>
