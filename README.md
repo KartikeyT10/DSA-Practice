@@ -8,7 +8,7 @@ Welcome to my personal Data Structures and Algorithms practice repository! This 
 
 ---
 
-## 🗺️ Roadmap & Structure
+## 🗺️ Roadmap & Structure 
 
 Here is the current status of my progress across different topics:
 
