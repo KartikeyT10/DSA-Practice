@@ -14,7 +14,7 @@ Here is the current status of my progress across different topics:
 
 | 📂 Topic | 📝 Status |
 | :--- | :---: |
-| **Arrays** | 🚧 |
+| **Arrays** | ✅ |
 | **Strings** | ⏳ |
 | **Recursion** | ⏳ |
 | **Linked List** | ⏳ |
