@@ -15,6 +15,7 @@ Here is the current status of my progress across different topics:
 | 📂 Topic | 📝 Status |
 | :--- | :---: |
 | **Arrays** | ✅ |
+| **Binary Search** | ⏳ |
 | **Strings** | ⏳ |
 | **Recursion** | ⏳ |
 | **Linked List** | ⏳ |
@@ -23,7 +24,6 @@ Here is the current status of my progress across different topics:
 | **Priority Queues** | ⏳ |
 | **Dynamic Programming** | ⏳ |
 | **Graphs** | ⏳ |
-| **Binary Search** | ⏳ |
 
 ---
 
