@@ -15,7 +15,7 @@ Here is the current status of my progress across different topics:
 | 📂 Topic | 📝 Status |
 | :--- | :---: |
 | **Arrays** | ✅ |
-| **Binary Search** | ⏳ |
+| **Binary Search** | ✅ |
 | **Strings** | ⏳ |
 | **Recursion** | ⏳ |
 | **Linked List** | ⏳ |
