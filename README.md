@@ -23,7 +23,7 @@ Here is the current status of my progress across different topics:
 | **Binary Trees & BST** | ⏳ |
 | **Priority Queues** | ⏳ |
 | **Dynamic Programming** | ⏳ |
-| **Graphs** | ⏳ |
+| **Graphs** | ⏳ | 
 
 ---
 
