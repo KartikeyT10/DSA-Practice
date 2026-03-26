@@ -7,7 +7,7 @@ public:
 
             if (i + 2 < s.length() && s[i + 2] == '#') {
                 int num = stoi(s.substr(i, 2)); 
-                result += char('a' + num - 1);ter
+                result += char('a' + num - 1);
                 i += 3;
             } else {
                 int num = s[i] - '0';
