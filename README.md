@@ -16,7 +16,7 @@ Here is the current status of my progress across different topics:
 | :--- | :---: |
 | **Arrays** | ✅ |
 | **Binary Search** | ✅ |
-| **Strings** | ⏳ |
+| **Strings** | ✅ |
 | **Recursion** | ⏳ |
 | **Linked List** | ⏳ |
 | **Stacks & Queues** | ⏳ |
